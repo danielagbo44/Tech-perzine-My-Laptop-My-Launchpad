@@ -15,7 +15,6 @@ Canva and Microsoft word
 ![Tech-perzine-My-Laptop-My-Launchpad](https://github.com/danielagbo44/html-css-js-portfolio-tutorial-2/blob/main/Tech%20perzine_Daniel%20Agbo.pdf)
 
 
-
 ## Key Skills Demonstrated
 
 Crital thinking and visual design skills
